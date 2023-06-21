@@ -4,9 +4,9 @@ This project involves analyzing employee data from the 1980s and 1990s at Pewlet
 
 ## Project Structure
 The project repository consists of the following files:
-* data_modeling.sql: Contains the entity relationship diagram (ERD) or table schemas created for the data.
-* data_engineering.sql: Contains the SQL statements used to create the tables and import the CSV data.
-* data_analysis.sql: Contains the SQL queries used to answer specific questions about the data.
+* /Pewlett_Hackard_db.sql: contains table schemas created for the data and the SQL queries used to answer specific questions about the data.
+* Pewlett_Hackard_dbd.png: the DBD of this database.
+* /data/: contains the input csv files.
 * README.md: The documentation file providing an overview of the project.
 
 ## Data Modeling
