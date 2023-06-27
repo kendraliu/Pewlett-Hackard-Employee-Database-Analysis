@@ -1,6 +1,6 @@
 # SQL Challenge: Pewlett Hackard Employee Database Analysis
 
-This project involves analyzing employee data from the 1980s to 1990s at Pewlett Hackard. The data is provided in six CSV files. The tasks include data modeling, data engineering, and data analysis using SQL. A database design diagram (DBD) is created to better illustrate the database schema and help navigate the database.
+This project involves analyzing employee data from the 1980s to 1990s at Pewlett Hackard. The data is provided in six CSV files. The tasks include data modeling, data engineering, and data analysis using SQL. A database diagram (DBD) is created to better illustrate the database schema and help navigate the database.
 
 ## Project Structure
 The project repository consists of the following files:
@@ -11,8 +11,9 @@ The project repository consists of the following files:
 
 ## Data Modeling
 The Pewlett_Hackard_dbd.png file includes table schemas for the six CSV files. The DBD depicts the relationships between the tables, including primary keys and foreign keys.
-
-![Pewlett Hackard Employee Database DBD](/Pewlett_Hackard_dbd.png)
+| Pewlett Hackard Employee Database Diagram|
+|---------|
+| ![Pewlett Hackard Employee Database DBD](/Pewlett_Hackard_dbd.png) |
 
 ## Data Engineering
 The Pewlett_Hackard_db.sql file contains the SQL statements used to create the table schema for each CSV file. The statements specify data types, primary keys, foreign keys, and other necessary constraints.
