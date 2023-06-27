@@ -12,6 +12,8 @@ The project repository consists of the following files:
 ## Data Modeling
 The Pewlett_Hackard_dbd.png file includes table schemas for the six CSV files. The DBD depicts the relationships between the tables, including primary keys and foreign keys.
 
+![Pewlett Hackard Employee Database DBD](/data/Pewlett_Hackard_dbd.png)
+
 ## Data Engineering
 The Pewlett_Hackard_db.sql file contains the SQL statements used to create the table schema for each CSV file. The statements specify data types, primary keys, foreign keys, and other necessary constraints.
 
