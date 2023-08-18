@@ -1,4 +1,4 @@
-# SQL Challenge: Pewlett Hackard Employee Database Analysis
+# Pewlett Hackard Employee Database Analysis
 
 This project involves analyzing employee data from the 1980s to 1990s at Pewlett Hackard. The data is provided in six CSV files. The tasks include data modeling, data engineering, and data analysis using SQL. A database diagram (DBD) is created to better illustrate the database schema and help navigate the database.
 
